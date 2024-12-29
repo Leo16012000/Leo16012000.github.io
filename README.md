@@ -1,6 +1,6 @@
 ### 🧑‍💻 **Leo Dang (Đặng Tuấn Anh)**
 
-**Backend Engineer | Java, Golang, Typescript, Javascript | Microservices Enthusiast**
+**Backend Engineer | Kotlin, Java, Golang, Typescript, Javascript | Microservices Enthusiast**
 
 📍 **Location**: Ho Chi Minh City, Vietnam  
 📧 **Email**: dangtuananh1601@gmail.com  
@@ -19,7 +19,7 @@ I am driven by a desire to solve complex problems and continuously improve my te
 
 #### 🛠 **Technical Skills**
 
-- **Programming Languages**: Java, Golang, Typescript, Javascript
+- **Programming Languages**: Kotlin, Java, Golang, Typescript, Javascript
 - **Frameworks/Platforms**: Spring Boot, ReactJS, NestJS, Express
 - **Databases**:
     - Relational: PostgreSQL, MySQL, Oracle Database, DB2
